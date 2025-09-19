@@ -3,6 +3,7 @@
 # Project Overview
 
 This project analyzes housing data to predict property prices using machine learning techniques. The dataset consists of 1,460 observations with a mix of numerical and categorical variables describing property characteristics, location, and quality.
+
 The goal is to develop models that can accurately estimate sale prices and evaluate their performance using statistical metrics.
 
 📊 Dataset
@@ -37,7 +38,7 @@ Correlation heatmap of features vs target
 
 Feature importance from tree-based models
 
-# . Model Development
+#  Modelling
 
 Data Splitting
 
